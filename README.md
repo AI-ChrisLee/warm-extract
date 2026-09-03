@@ -58,6 +58,6 @@ the first number gets decided in the next part.
 
 ## What comes next
 
-The part that reads these calls and forges them into one offer document with a verdict on it. It
+The part that reads these calls and forges them into one offer document with one answer on it. It
 arrives one episode at a time. Subscribe (the link under every episode) and each new part lands
 in your inbox the day its episode goes live.
